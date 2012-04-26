@@ -1,4 +1,4 @@
-Cultured localisation, or 'how not to offend 1 billion people' (日本語：文化認識局在)
+Cultured localisation, or 'how not to offend 1 billion people' (文化認識局在)
 ====
 by Ryan Stenhouse / ライアン・ステンハウス <ryan@ryanstenhouse.eu>
 ----
@@ -33,7 +33,7 @@ domain understanding and upfront design.
 
 ####Talk Language: English / プレゼンテーション言語：英語
 
-#### Ryan Stenhouse  /  ライアン・ステンハウスです
+#### Ryan Stenhouse  /  ライアン・ステンハウス
 
 Ryan's a Ruby fanatic with a love of languages, programming and
 otherwise. He's well travelled and has worked on projects of varying
