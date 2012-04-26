@@ -1,4 +1,5 @@
-# Cultured localisation, or 'how not to offend 1 billion people'
+# 英語: Cultured localisation, or 'how not to offend 1 billion people'
+# 日本語：文化認識局在
 
 This talk isn’t really about localisation or internationalisation (add a
 ‘z’ if you prefer!) – it’s about culture and understanding. It’s about
@@ -30,6 +31,10 @@ bit nuts when it comes to communication and has a burning passion for
 getting groups of people together to solve their problems. He also
 really hates describing himself in the third person and has only
 recently gotten over his aversion to tofu.
+
+Ryan is a real-life polyglot, and is conversant in French, Japanese
+and Klingon as well as his native English and in a past life was a
+teacher of English as a foreign language.
 
 ## Past talks
 
