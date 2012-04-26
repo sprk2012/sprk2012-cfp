@@ -22,6 +22,12 @@ Hell, I’ll even make you laugh. I hope. The most important thing
 though, I’ll provoke a discussion, given the diverse multilingual
 background of the attendees here; it could be a very good one.
 
+I know the subject of this conference is 'We Code' this year, and while
+this talk is certainly more about soft-skills than actualy hard coding
+in Ruby; I think it's still very relevant as it's about problem solving,
+domain understanding and upfront design.
+
+
 ## Ryan Stenhouse
 
 Ryan's a Ruby fanatic with a love of languages, programming and
