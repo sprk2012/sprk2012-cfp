@@ -1,5 +1,9 @@
-# 英語: Cultured localisation, or 'how not to offend 1 billion people'
-# 日本語：文化認識局在
+Cultured localisation, or 'how not to offend 1 billion people' (日本語：文化認識局在)
+====
+by Ryan Stenhouse / ライアン・ステンハウス <ryan@ryanstenhouse.eu>
+----
+
+###Description:
 
 This talk isn’t really about localisation or internationalisation (add a
 ‘z’ if you prefer!) – it’s about culture and understanding. It’s about
@@ -23,12 +27,13 @@ though, I’ll provoke a discussion, given the diverse multilingual
 background of the attendees here; it could be a very good one.
 
 I know the subject of this conference is 'We Code' this year, and while
-this talk is certainly more about soft-skills than actualy hard coding
+this talk is certainly more about soft-skills than actually hard coding
 in Ruby; I think it's still very relevant as it's about problem solving,
 domain understanding and upfront design.
 
+####Talk Language: English / プレゼンテーション言語：英語
 
-## Ryan Stenhouse
+#### Ryan Stenhouse  /  ライアン・ステンハウスです
 
 Ryan's a Ruby fanatic with a love of languages, programming and
 otherwise. He's well travelled and has worked on projects of varying
@@ -42,20 +47,6 @@ Ryan is a real-life polyglot, and is conversant in French, Japanese
 and Klingon as well as his native English and in a past life was a
 teacher of English as a foreign language.
 
-## Past talks
-
-I spoke at the Scottish Ruby Conference about PCI DSS compliance,
-[the slides are on slideshare][1] and the [viedeo is on ConFreaks][2].
-
-I also gave a talk at the Scottish Ruby User Group about the importance
-of culture informing your localisation efforts. [video is here][3] and
-the [slides are here][4].
-
-[1]: http://www.slideshare.net/ryanstenhouse/these-are-not-the-credit-cards-youre-looking-for
-[2]: http://www.confreaks.com/videos/568-scotlandruby2011-these-are-not-the-credit-cards-you-are-looking-for 
-[3]: http://scotrug.org/2012/02/11/video-culture-of-internationalisation.html 
-[4]: http://www.slideshare.net/ryanstenhouse/the-culture-of-localiszation
-
 ![Profile picture](https://github.com/HHRy/call-for-proposals/raw/master/my_picture.jpg)
 
 - [My website](http://ryanstenhouse.eu)
@@ -63,3 +54,24 @@ the [slides are here][4].
 - [My company](http://www.thehappygeek.co.uk)
 - [My twitter](https://twitter.com/#!/ryanstenhouse)
 
+
+####Past talks
+
+I've spoken at the Scottish Ruby Conference about PCI DSS compliance,
+[the slides are on slideshare][1] and the [viedeo is on ConFreaks][2].
+
+I also gave a talk at the Scottish Ruby User Group about the importance
+of culture informing your localisation efforts. [video is here][3] and
+the [slides are here][4].
+
+####Affiliation
+
+I'm employed by [FreeAgent Central Ltd][5] as a Ruby Engineer and run my 
+own company, [The Happy Geek Ltd][6].
+
+[1]: http://www.slideshare.net/ryanstenhouse/these-are-not-the-credit-cards-youre-looking-for
+[2]: http://www.confreaks.com/videos/568-scotlandruby2011-these-are-not-the-credit-cards-you-are-looking-for 
+[3]: http://scotrug.org/2012/02/11/video-culture-of-internationalisation.html 
+[4]: http://www.slideshare.net/ryanstenhouse/the-culture-of-localiszation
+[5]: http://www.freeagent.com
+[6]: http://www.thehappygeek.co.uk
