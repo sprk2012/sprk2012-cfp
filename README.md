@@ -38,5 +38,5 @@ You can add any type of assets to support your proposal inside your folder. When
 
 pull request へのコメントもご自由に行ってください。
 
-  [sprk2012]: http://saporo.rubykaigi.org/2012
+  [sprk2012]: http://sapporo.rubykaigi.org/2012
   [euruko2012]: https://github.com/euruko2012/call-for-proposals
