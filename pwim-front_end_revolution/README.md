@@ -9,6 +9,8 @@ Here's a rough outline of my talk:
 * Open sourcing design with Bootstrap
 * Advanced CSS techniques (responsive design, css selectors, etc.)
 
+----
+
 - Preferred presentation day: no preference
 - Presentation language: English/Japanese
 
