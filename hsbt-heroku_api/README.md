@@ -1,14 +1,16 @@
 # Advanced usage of heroku api
 
-PaaS の Heroku には AWS と同じようにインフラ操作用の API が備わっています。しかし、それらの活用事例の数は AWS に比べてまだ十分とは言えません。
+Heroku known as PaaS has API to operate infrastructure like AWS. 
+However, the number of reported Heroku cases is not enough relative to AWS.
+This presentation will show you how to master Heroku API through hem and ralis engine.
 
-本発表では Heroku の API を利用した gem や rails engine を題材に Heroku の API を使いこなす方法を紹介します。
+Keyword: Heroku, PaaS
 
 # Heroku API のちょっと進んだ使い方
 
-Heroku as known as PaaS has API for the operation of infrastructure in the same as AWS. However, the number of cases the use of them is not enough yet compared to the AWS.
+PaaS の Heroku には AWS と同じようにインフラ操作用の API が備わっています。しかし、それらの活用事例の数は AWS に比べてまだ十分とは言えません。
 
-This presentation will show you how to master the API of the theme of Heroku gem and rails engine that uses the API of Heroku.
+本発表では Heroku の API を利用した gem や rails engine を題材に Heroku の API を使いこなす方法を紹介します。
 
 キーワード: Heroku, PaaS
 
@@ -21,7 +23,9 @@ This presentation will show you how to master the API of the theme of Heroku gem
 
 My bio
 
-Technical infrastructured engineer, my work is solving to any problem in my company. I am developping to tDiary(like a blog system) while 10 years.
+Operation engineer.
+My work mission is solving all technical problems in my company. 
+I have been developping tDiary(like a blog system) for 10 years.
 
 ## 柴田博志
 
