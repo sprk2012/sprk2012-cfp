@@ -1,7 +1,12 @@
 # Continuous Delivery in Ruby World
 
-Continuous delivery is idea of continuously deliver user(or customers) to value of the software. However, in order to achieve continuous delivery is required to make the adoption of tools and mechanisms to meet the organizational development process and quality assurance system has.
-"Continuous Delivery" written by David Farley includes to pattern of comprehensive continuous delivery. In this presentation, patterns and tools that support them on the Rubyist necessary to introduce a continuous delivery, will introduce a choice while exchanging best practices.
+Continuous delivery is an idea which is continuously supplying a value of software to users or customers.
+
+In order to achieve the continuous delivery, we need to choose tools and development systems which are appropriate to our development process or quality assurance system.
+
+"Continuous Delivery" by David Farley described comprehensive patterns of the continuous delivery. Some patterns and tools are required when Rubyist innovate continuous delivery. 
+
+In this presentation, I will show important idea of continuous delivery through an actual case. 
 
 Keyword: Ruby, Rails, Continuous Delivery, Continuous Integration, Quality Management, Deployment Pipeline
 
@@ -9,7 +14,7 @@ Keyword: Ruby, Rails, Continuous Delivery, Continuous Integration, Quality Manag
 
 継続的デリバリはソフトウェアの価値をユーザー(または顧客)へ継続的に届ける考え方です。しかし、継続的デリバリを実現するためには、組織が持つ開発プロセスや品質保証体系に合わせたツールの採用と仕組み作りが必要です。
 
-David Farley著「継続的デリバリー」には継続的デリバリーの包括的なパターンが記されています。本発表では Rubyist が継続的デリバリーを導入する上で必要なパターンやそれらを支えるツールについて、実例を交えながら選択肢を紹介します。
+David Farley著「継続的デリバリー」には継続的デリバリーの包括的なパターンが記されています。Rubyist が継続的デリバリーを導入するためにはそれらのパターンやツールを知る必要があります。本発表では実際の経験から得られたパターンや採用したツールについて紹介します。
 
 キーワード: Ruby, Rails, Continuous Delivery, Continuous Integration, Quality Management, Deployment Pipeline
 
@@ -22,7 +27,7 @@ David Farley著「継続的デリバリー」には継続的デリバリーの�
 
 My bio
 
-Technical infrastructured engineer, my work is solving to any problem in my company. I am developping to tDiary(like a blog system) while 10 years.
+Operation engineer. My work mission is solving all technical problems in my company. I have been developping tDiary(like a blog system) for 10 years.
 
 ## 柴田博志
 
