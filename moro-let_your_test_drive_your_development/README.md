@@ -1,37 +1,28 @@
 # Let your test drive your development
 
-My talk description
+# テストに開発を駆動させたい!
 
-(draft)
 本トークでは、私がRSpecやCucumberのテストを書く"気分"や"考えていること"を紹介し、
 テストに開発を駆動させるときの雰囲気を感じてもらいたいと思っています。
 
 いまや、Rubyを使ったシステム開発では、TDDはやるべきこととしてすっかり定着しました。
 とはいえ実際にテストを書こうとすると、"どのようなテストを書くべきなのか"を悩み
-手が止まってしまう人を(自分も含め)たくさん見てきました。
+かえって手が止まってしまうこともあります。
 
-そこで、ツールの使い方ではなく、開発を推進という観点から、テストを書くときに考えていることを
+TDDの効用はいろいろ紹介されていますが、本来の目的である「開発を駆動する」様子を
 紹介したいと思います。
+そのため、テストを書くときに考えていることや、書き順についてお話しします。
 
 - Preferred presentation day: [9/15 | 9/16]
 - Presentation language: Japanese
 
-## My name (required)
+## Kyosuke MOROHASHI.
+## 諸橋恭介
 
-Kyosuke MOROHASHI.
+## Eiwa System Management, Inc. (http://www.esm.co.jp)
+## (株)永和システムマネジメント (http://www.esm.co.jp)
 
-## お名前 (name in Japanese; optional)
-
-諸橋恭介
-
-## My affiliation (required)
-
-Eiwa System Management, Inc. (http://www.esm.co.jp)
-
-## 所属 (name in Japanese; optional)
-
-(株)永和システムマネジメント (http://www.esm.co.jp)
-
+My bio (required)
 Ruby/Rails Programmer. Love TDD/BDD.
 
 - [My website](http://github.com/moro/)
