@@ -2,7 +2,7 @@
 
 Ruby has some features for functional programming such as blocks; however,
 Ruby is a very imperative language and purely functional programming is not
-so common in Ruby.  This talk talk illustrates how you can write purely
+so common in Ruby.  This talk will illustrate how you can write purely
 functional code in Ruby (e.g., [persistent data
 structures](https://github.com/shugo/immutable), [lazy
 evaluation](https://github.com/shugo/immutable/blob/master/lib/immutable/promise.rb)).
