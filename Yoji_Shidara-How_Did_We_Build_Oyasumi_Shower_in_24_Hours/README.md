@@ -1,4 +1,4 @@
-# How Did We Built "Oyasumi Shower" in 24 Hours
+# How We Built "Oyasumi Shower" in 24 Hours
 # おやすみシャワーができるまで
 
 Talk about our product "Oyasumi Shower" for "COOKPAD 24-hour Hackathon Competition" that won the special prize. I'll talk about how we design the product and how we code.
