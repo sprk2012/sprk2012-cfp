@@ -1,13 +1,13 @@
 # Let your test drive your development
 
-I'll talk about "thought" during writing developper tests by RSpec, Cucumber or so as
-I would like audiences to let thier tests helps their software development.
+I'll talk about "thought" during writing developer tests by RSpec, Cucumber, etc. as
+I would like audiences to let their tests help their software development.
 
-Someone may think that tests are *interrepters* of software development although
-TDD has now became essential part of Ruby development.
-Newbie offten worry that 'What to test?' or 'How much tests should I write?' and that stop thier hand.
+Some may think that tests are *interrupters* of software development although
+TDD has now become an essential part of Ruby development.
+Newbies often worry about 'What to test?' or 'How many tests should I write?' and that stays their hand.
 
-I think tests are good *drivers* of development. So I'll talk an answer of above based on my experience.
+I think tests are good *drivers* of development. So I'll give an answer to the above based on my experience.
 
 # テストに開発を駆動させたい!
 
