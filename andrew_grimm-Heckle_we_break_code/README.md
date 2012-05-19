@@ -1,8 +1,8 @@
 # Heckle: we break code!
 
-Heckle evaluates the thoroughness of your unit tests. It does this by making modifications to your code, and seeing if those modifications cause any unit test failures. For example, it will turn ifs into unlesses, and replace strings and numbers with other strings and numbers or nil. If no failures occur, then that piece of code isn't being tested enough.
+Heckle evaluates the thoroughness of your unit tests. It does this by making modifications to your production code, and seeing if those modifications cause any unit test failures. For example, it will turn ifs into unlesses, and replace strings and numbers with other strings and numbers or nil, or even delete lines of code! If no failures occur when your unit tests are run on the modified production code, then that code isn't being tested enough.
 
-In this talk, I will discuss how Heckle has been useful to me in maintaining a one person Plain Old Ruby Object project that's been worked on for over three years, has over 15K lines of production code, over 11K lines of test code, and varying degrees of unit testing.
+In this talk, I will discuss how Heckle has been useful to me in maintaining a one person Ruby project that's been worked on for three years, has 15K lines of production code, 11K lines of test code, and varying degrees of unit testing.
 
 - Preferred presentation day: no preference
 - Presentation language: English, hopefully with Japanese subtitles.
