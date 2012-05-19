@@ -17,7 +17,7 @@ Andrew Grimm is a bioinformatician at the University of New South Wales in Sydne
 
 He has worked on various projects outside of work. One analyzed why you always end up at "Philosophy" in Wikipedia. Another was a fork of Heckle in which zombies eat your brains unless your unit tests can kill them all. At RubyKaigi 2011 he demonstrated the Small Eigen Collider, which generates random Ruby code that can be run under different implementations of Ruby to check for inconsistencies or bugs.
 
-He started learning Japanese in order cope with Tokyo for RubyKaigi 2011, expecting to quit a few weeks after starting the course. He has forgotten to give up.
+He started learning Japanese in order to cope with Tokyo for RubyKaigi 2011, expecting to quit a few weeks after starting the course. He forgot to give up.
 
 バイオインフォマティクスの科学者
 
