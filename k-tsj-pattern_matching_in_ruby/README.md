@@ -1,8 +1,8 @@
 # Pattern Matching in Ruby
 
 Pattern matching is a very powerful feature, but Ruby does not have it.
-To support the feature, it is needed to consider the pattern matching system based on the object model of Ruby.
-This talk will introduce example of pattern matching in Ruby through the pattern-match library.
+To support the feature, it is necessary to consider the pattern matching system based on the object model of Ruby.
+This talk will introduce an example of pattern matching in Ruby through the pattern-match library.
 
 パターンマッチはとても便利なものですがRubyにその機能はありません。
 サポートするためにはRubyのオブジェクトモデルを踏まえたパターンマッチの仕組みを考える必要があります。
