@@ -1,6 +1,6 @@
 # Ruby: the awesome parts
 
-According to Stack Overflow, Ruby on Rails is a more popular programming language than Ruby, with 73 thousand versus 46 thousand questions. As a Plain Old Ruby Object specialist, let me show you some of the parts of Ruby that are often missed by introductory Ruby books, and overlooked by time-pressed Rails developers. I will show you how to be more assertive with fetch rather than [], how to use a more functional programming style, how to delegate more, and what ["1", "2", "3"].map(&method(:Integer)) does.
+According to Stack Overflow, Ruby on Rails is a more popular programming language than Ruby, with 73 thousand versus 46 thousand questions. As a Plain Old Ruby Object specialist, let me show you some parts of Ruby that are often missed by introductory Ruby books, and overlooked by time-pressed Rails developers. I will show you how to be more assertive with Hash#fetch rather than Hash#[], how to use a more functional programming style, how to delegate more, and what ["1", "2", "3"].map(&method(:Integer)) does.
 
 - Preferred presentation day: no preference
 - Presentation language: English, hopefully with Japanese subtitles.
