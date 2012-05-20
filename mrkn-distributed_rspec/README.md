@@ -1,14 +1,14 @@
 # Distributed RSpec
 # 分散 RSpec
 
-I introduce a library for executing your spec files in distributedly.
+I will introduce a library for distributed execution your spec files.
 This library has two strategies in order to distribute spec files.
-The one divides spec files into some groups and distributes them.
-The another distributes every code examples following the producer-consumer way.
+One divides spec files into some groups and distributes them.
+The other distributes every code example following the producer-consumer way.
 
-Moreover I also describe the usage of the library in COOKPAD.
-COOKPAD develops some large Rails applications including about 800 models.
-I illustrate the effectivity of the library by figuring out the decrease of elapsed time that a CI job takes in COOKPAD using the library.
+I will also describe the usage of the library in COOKPAD.
+COOKPAD develops large Rails applications including about 800 models.
+I will demonstrate the effectiveness of the library by showing the time saved by a COOKPAD CI job by using this library.
 
 スペックファイルを分散実行するためのライブラリを紹介する。
 このライブラリは、スペックファイルの分配方法を2つ持っている。
@@ -21,7 +21,7 @@ I illustrate the effectivity of the library by figuring out the decrease of elap
 このライブラリの有効性を説明する。
 
 - Preferred presentation day: no preference
-- Presentation language: Japanese
+- Presentation language: Japanese with slides written in English
 
 ## Kenta Murata
 ## 村田賢太
@@ -29,7 +29,7 @@ I illustrate the effectivity of the library by figuring out the decrease of elap
 ## COOKPAD Inc. && Asakusa.rb && Ruby Sapporo
 ## クックパッド株式会社 && Asakusa.rb && Ruby 札幌
 
-Kenta Murata is an Engineer at Cookpad in Tokyo, Japan. He is also a Ruby committer maintaining the bigdecimal library and OS X support.
+Kenta Murata is an Engineer at COOKPAD in Tokyo, Japan. He is also a Ruby committer maintaining the bigdecimal library and OS X support.
 
 村田賢太。クックパッド株式会社のソフトウェアエンジニア。CRuby のコミッタであり、bigdecimal ライブラリのメンテナンスと OS X プラットフォームサポートを担当している。
 
