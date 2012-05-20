@@ -4,7 +4,7 @@
 My talk description
 I've written applications using GUI and socket communication techniques for about 20 years.
 In good old Xt, XtAddInput() is a primitive to append functionalities of asynchronous communication into GUI.
-XtAddInput() calls functions back every time that a file-descriptor you are interested in becomes readable/writable.
+XtAddInput() calls back functions every time that a file-descriptor you are interested in becomes readable/writable.
 Although it makes asynchronous communication easy that passing a non-block file to XtAddInput(),
 in fact, there are various traps about that.
 
