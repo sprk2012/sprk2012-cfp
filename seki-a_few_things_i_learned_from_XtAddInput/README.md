@@ -2,7 +2,14 @@
 # XtAddInputから学んだこと。
 
 My talk description
-Translate me!
+I've written applications using GUI and socket communication techniques for about 20 years.
+In good old Xt, XtAddInput() is a primitive to append functionalities of asynchronous communication into GUI.
+XtAddInput() calls functions back every time that a file-descriptor you are interested in becomes readable/writable.
+Although it makes asynchronous communication easy that passing a non-block file to XtAddInput(),
+in fact, there are various traps about that.
+
+I will show you the mechanism of asynchronous communication and the pattern of the problem in Xt, and how I solve the same problem in dRuby.
+I will also describe the strategy of Drip that gives you the unordinary viewpoint of the general problem of communication programs.
 
 発表概要 (talk description in Japanese; optional)
 GUIとソケット（などの）通信を絡めたアプリケーションを20年ほど書いている。
