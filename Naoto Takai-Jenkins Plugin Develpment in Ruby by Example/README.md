@@ -1,6 +1,6 @@
 # Jenkins Plugin Develpment in Ruby by Example
 
-Jenkins CI is the most popular CI in the world. Developer can extend Jenkins CI by writing plug-in in JRuby. But it is not widely known amoung the developers since there were not many examples of the plug-in. This presentation shows how to make Jenkins plug-in by exmpale of "Jenkins HipChat Publisher Plugin" written in Ruby by the presenter.
+Jenkins CI is the most popular CI in the world. Developers can extend Jenkins CI by writing plug-ins in JRuby. But it is not widely known among developers since there are not many examples of plug-ins. This presentation shows how to make a Jenkins plug-in by example of "Jenkins HipChat Publisher Plugin" written in Ruby by the presenter.
 
 世界中で最も利用されているCIサーバとしてJenkins CIがある。Jenkins CIは拡張可能であり、JRubyでPlug-inを作成することが可能である。しかしながら、まだまだ資料も少なく、開発手法が知られているとは言い難い。そこで、本発表では、発表者が作成したJenkins HipChat Publisher Pluginを取り上げ、Jenkinsで実用的なプラグインを作成するための手法を解説をする。
 
