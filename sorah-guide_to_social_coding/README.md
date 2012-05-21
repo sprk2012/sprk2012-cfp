@@ -1,28 +1,35 @@
 # Guide to Social Coding
 # Social Coding をはじめよう
 
-Recently, most Rubyists are using GitHub to publish their own codes.
-I think most attendees to this kaigi are already using GitHub.
+Recently, most Rubyists are using GitHub to publish their own code.
+Most attendees to this kaigi are probably already using GitHub.
 
-Do you know "social coding?"
+Do you know the slogan "social coding?"
 
-GitHub provides us many features for __social coding__.
-For example, the one of useful feature, __pull request__.
-By using this, you can contribute easily __using the same method__ to projects
-on GitHub even if the project is bigger
+GitHub provides us with many features for __social coding__.
+For example, one useful feature is __pull request__.
+By using this, you can contribute easily __in the same way__ to projects
+on GitHub no matter how large the project is.
 
-But currently, Japanese social coders are not so many...
-I examined how many Japanese developers have sent pull requests to popular projects in Ruby:
-[Ruby on Rails](https://github.com/rails/rails) has 82 requests of 3812 requests (2.15 %),
-[Sinatra](https://github.com/sinatra/sinatra) has 6 requests of 241 requests (2.49 %),
-[Homebrew](https://github.com/mxcl/homebrew) has 133 requests of 6382 requests (2.08 %).
-The average of the pull requests are 74 (2.24 %), and the total number of Japanese developer is __73 developers__ of 3450 developers.
+However, there are not many Japanese social coders currently...
+I examined how many Japanese developers have sent pull requests to
+popular projects in Ruby:
+[Ruby on Rails](https://github.com/rails/rails) has 82 requests out of
+3812 requests (2.15 %),
+[Sinatra](https://github.com/sinatra/sinatra) has 6 requests out of
+241 requests (2.49 %),
+[Homebrew](https://github.com/mxcl/homebrew) has 133 requests out of
+6382 requests (2.08 %).
+The average number of pull requests is 74 (2.24 %), and the total
+number of Japanese developers is __73 developers__ out of 3450
+developers.
 Just 2.24 %...
 
-There were some talks and articles about social coding, but
-we haven't seen any talks and articles about "how to social coding" yet. (for Japanese...)
+There have been some talks and articles about social coding, but
+we haven't seen any talks and articles about "how to social coding"
+yet. (for Japanese developers...)
 
-So, I'll talk __"how to social coding"__ with my past pull requests.
+So, I will discuss __"how to social coding"__ with my past pull requests.
 
 (Talk will be in Japanese, but slides will be provided in English.)
 
