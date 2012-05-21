@@ -15,7 +15,7 @@ But currently, Japanese social coders are not so many...
 I examined how many Japanese developers have sent pull requests to popular projects in Ruby:
 [Ruby on Rails](https://github.com/rails/rails) has 82 requests of 3812 requests (2.15 %),
 [Sinatra](https://github.com/sinatra/sinatra) has 6 requests of 241 requests (2.49 %),
-[Homebrew](https://github.com/mxcl/homebrew) has 133 README.md of 6382 requests (2.08 %).
+[Homebrew](https://github.com/mxcl/homebrew) has 133 requests of 6382 requests (2.08 %).
 The average of the pull requests are 74 (2.24 %), and the total number of Japanese developer is __73 developers__ of 3450 developers.
 Just 2.24 %...
 
