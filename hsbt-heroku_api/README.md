@@ -1,14 +1,14 @@
 # Advanced usage of heroku api
 
-Heroku known as PaaS has API to operate infrastructure like AWS. 
-However, the number of reported Heroku cases is not enough relative to AWS.
-This presentation will show you how to master Heroku API through hem and ralis engine.
+Heroku known as PaaS have several APIs to operate infrastructure like AWS.
+However, the number of case studies of Heroku is not enough relative to AWS.
+This presentation will show you how to master Heroku API through gem and ralis engine.
 
 Keyword: Heroku, PaaS
 
 # Heroku API のちょっと進んだ使い方
 
-PaaS の Heroku には AWS と同じようにインフラ操作用の API が備わっています。しかし、それらの活用事例の数は AWS に比べてまだ十分とは言えません。
+PaaS の Heroku には AWS と同じようにインフラを操作するための API を備えています。しかし、Heroku の API を使った事例の数は AWS に比べてまだ十分とは言えません。
 
 本発表では Heroku の API を利用した gem や rails engine を題材に Heroku の API を使いこなす方法を紹介します。
 
