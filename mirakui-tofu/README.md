@@ -16,7 +16,8 @@ a result of on-the-fly thumbnail generation, we have enabled to develop prototyp
 そのたびに様々な大きさのサムネイル画像が欲しくなる場合があります。
 
 Tofu は Apache module として実装された画像配信システムで、
-Amazon S3 に保存された画像を高速にリサイズやクロップを行い、配信します。
+Ruby インタフェースによりRailsアプリケーション等から簡単に利用できます。
+Tofu は Amazon S3 に保存された画像を高速にリサイズやクロップを行い、配信します。
 
 Tofu はクックパッドで利用されており、1日あたり5,000万枚の画像を配信しています。
 クックパッドでは画像の動的配信を採用したことにより、飛躍的に開発効率を向上させることができました。
