@@ -3,8 +3,12 @@
 Jpmobile is a requisite Rails plugin for mobile phones in Japan, including Feature Phone and Smart Phone.
 Recently, some features are added; sending emoticon email and decomail, tablet classes.
 
-In this presentaion, I will introduce the inside of jpmobile; cookie and session store manipulation,
-character encoding and emoticon conversion, sending/receiving emails, considerations about testing.
+In this presentaion, I will introduce the inside of jpmobile. The main topics are the followings:
+
+* Cookie and session store manipulation
+* Character encoding and emoticon conversion
+* sending/receiving emails with emoticon, and decomail
+* Considerations about testing
 
 Jpmobileは携帯電話、いわゆるガラケーだけではなく、スマホ対応サイトを製作する上で必須のプラグインです。
 最近ではデコメの送信や絵文字メールの送受信、またタブレットクラスが導入され、タブレットにも対応しています。
