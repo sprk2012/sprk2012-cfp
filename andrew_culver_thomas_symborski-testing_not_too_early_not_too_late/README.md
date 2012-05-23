@@ -30,6 +30,7 @@ With a degree in Electrical Engineering and a masters in Mathematics nearing its
 
 - [We Are Titans](http://www.wearetitans.net)
 - [@zsiec on Twitter](https://twitter.com/#!/zsiec)
+- [Upcoming Talk: "Cucumber: The Right Way"](http://www.rubyday.it/talks/12/)
 
-![Andrew](andrew.jpg)
-![Thomas](thomas.jpg)
+![Andrew](https://github.com/zsiec/sprk2012-cfp/raw/master/andrew_culver_thomas_symborski-testing_not_too_early_not_too_late/andrew.jpg)
+![Thomas](https://github.com/zsiec/sprk2012-cfp/raw/master/andrew_culver_thomas_symborski-testing_not_too_early_not_too_late/thomas.jpg)
