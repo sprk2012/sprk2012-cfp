@@ -21,9 +21,9 @@ ZeroMQ is a socket abstraction and concurrency framework that's changing the way
 
 ## WildfireApp.com
 
-Lourens is an independent consultant currently based in sunny Madeira Island, but originally from South Africa. He specializes in backend / platform / domain solutions and is well versed full stack, from VM to high level protocols and known for his offbeat Ruby patches and extensions. Current interests include disruptive communication technology like ZeroMQ / libxs - all modern software is social software and none of that should be hard. He's working on ZeroMQ monitoring features for better operations support.
+Lourens is an independent consultant currently based in sunny Madeira Island, but originally from South Africa. He specializes in backend / platform / domain solutions and is well versed full stack, from VM to high level protocols and known for his offbeat Ruby patches and extensions. Current interests include disruptive communications technology like ZeroMQ / libxs and he is working on ZeroMQ monitoring features for better operations support.
 
-He spends weekdays in the Operations team @ http://www.wildfireapp.com
+Weekdays are spent in the Operations team @ http://www.wildfireapp.com
 
 See http://github.com/methodmissing for Open Source contributions.
 
