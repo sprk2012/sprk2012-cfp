@@ -1,9 +1,9 @@
-# A serious GC with Ruby
+# Serious GC with Ruby
 # Rubyによる本気のGC
 
 Why do you write GC with C?  Do you want to write GC with Ruby?  This
-talk introduce how you can write GC with (J)Ruby!  You will be able to
-write a serious GC is not a toy.
+talk will show how to write GC with (J)Ruby!  You will be able to
+write serious GC, not a toy.
 
 なぜあなたはCでGCを書くのですか？　本当はRubyで書きたいですよね？　この
 発表では(J)RubyでGCを書く方法を示します。ToyのGCじゃなくて、本気のGCを
