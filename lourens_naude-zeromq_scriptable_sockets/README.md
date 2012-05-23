@@ -12,6 +12,8 @@ ZeroMQ is a socket abstraction and concurrency framework that's changing the way
 - How to use it from Ruby
 - Small case study
 
+## Preferences
+
 - Preferred presentation day: [no preference]
 - Presentation language: [English]
 
