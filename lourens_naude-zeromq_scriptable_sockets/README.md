@@ -25,7 +25,7 @@ He spends weekdays in the Operations team @ http://www.wildfireapp.com
 
 See http://github.com/methodmissing for Open Source contributions.
 
-![Profile picture](https://github.com/methodmissing/sprk2012-cfp/raw/lourens_naude-zeromq_scriptable_sockets/profile_picture.jpg)
+![Profile picture](https://github.com/methodmissing/sprk2012-cfp/raw/master/lourens_naude-zeromq_scriptable_sockets/profile_picture.jpg)
 
 - [My website](http://www.methodmissing.com)
 - [My twitter](https://twitter.com/#!/methodmissing)
