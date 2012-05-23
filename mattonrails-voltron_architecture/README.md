@@ -1,3 +1,5 @@
+![](http://f.cl.ly/items/470X1p2v041X3w2X0B11/voltron.jpg)
+
 # Voltron Architecture
 # ゴライオン アーキテクチャ
 
