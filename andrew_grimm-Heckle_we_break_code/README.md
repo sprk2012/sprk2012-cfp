@@ -17,7 +17,13 @@ Andrew Grimm is a bioinformatician at the University of New South Wales in Sydne
 
 He has worked on various projects outside of work. One analyzed why you always end up at "Philosophy" in Wikipedia. Another was a fork of Heckle in which zombies eat your brains unless your unit tests can kill them all. At RubyKaigi 2011 he demonstrated the Small Eigen Collider, which generates random Ruby code that can be run under different implementations of Ruby to check for inconsistencies or bugs.
 
-バイオインフォマティクスの科学者
+ニューサウスウェールズ大学(シドニー)のバイオインフォマティクスの研究者。
+Encyclopedia of Life関係の仕事でRailsを使ったことをきっかけにRubyと出会い、今はPlain Old Ruby Objectsを専門としている。
+
+これまでに、Wikipediaのリンクを辿っていくと最終的に"Philosophy"のページに
+到達するという事象についての分析や、Heckleというテストライブラリのフォークなどを行ってきた。
+RubyKaigi 2011では、ランダムなRubyコードを生成することでRubyの様々な処理系におけるバグを見つけるための
+Small Eigen Colliderというライブラリについて発表した。
 
 - [My website](https://andrewjgrimm.wordpress.com/)
 - [My twitter](https://twitter.com/#!/andrewjgrimm)
