@@ -53,10 +53,14 @@ Ruby on Rails で仕事をする一方、4月から大学にて非常勤講師�
 - [My twitter](https://twitter.com/#!/twitter_handle)
 -- https://twitter.com/#!/igaiga555
 
-- [Past talk slides](http://www.example.org)
--- http://www.slideshare.net/igaiga/rubykaigi-lightning-talks-twym-episode1
--- http://www.slideshare.net/igaiga/rubykaigi-lightning-talks-twym-episode1-1737774
--- 4月からの大学での講義資料
---- https://github.com/hitotsubashi-ruby/lecture2012
+## [Past talk slides](http://www.example.org)
+RubyKaigi2009 Lightning talks 前説
+- http://www.slideshare.net/igaiga/rubykaigi-lightning-talks-twym-episode1
+- http://www.slideshare.net/igaiga/rubykaigi-lightning-talks-twym-episode1-1737774
 
-- [Past talk video](http://www.example.org)
+4月からの大学での講義資料
+- https://github.com/hitotsubashi-ruby/lecture2012
+
+## [Past talk video](http://www.example.org)
+nil
+
