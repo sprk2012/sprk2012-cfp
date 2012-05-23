@@ -1,9 +1,20 @@
-# My talk title
-# タイトル (title in Japanese; optional)
+# jpmobile inside
 
-My talk description
+Jpmobile is a requisite Rails plugin for mobile phones in Japan, including Feature Phone and Smart Phone.
+Recently, some features are added; sending emoticon email and decomail, tablet classes.
 
-発表概要 (talk description in Japanese; optional)
+In this presentaion, I will introduce the inside of jpmobile; cookie and session store manipulation,
+character encoding and emoticon conversion, sending/receiving emails, considerations about testing.
+
+Jpmobileは携帯電話、いわゆるガラケーだけではなく、スマホ対応サイトを製作する上で必須のプラグインです。
+最近ではデコメの送信や絵文字メールの送受信、またタブレットクラスが導入され、タブレットにも対応しています。
+
+本発表では、
+このjpmobileの内部について、どのように実装され動作しているのかを具体的に紹介します。
+クッキーやセッションストアに対する処理や、
+文字列・絵文字の変換処理、またメールの送受信に関する処理から、
+テストの際に気をつけることまで、
+様々な観点からjpmobileを紹介します。
 
 - Preferred presentation day: no preference
 - Presentation language: Japanese
