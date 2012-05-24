@@ -1,7 +1,10 @@
 # Technology that drives fun cooking 2012
 # 料理を支える技術 2012
 
-My talk description (すいません、英語概要は採択されたらきちんと書きます)
+Cookpad using Ruby and Rails and more technologies that drives fun cooking.
+
+Taking about what using technology and development web service.
+Example upgrade Rails 2.3 to 3, maintenance code.
 
 クックパッドでは、Ruby や Rails といった技術を利用し、様々な家庭の料理を支えています。
 
@@ -10,7 +13,7 @@ My talk description (すいません、英語概要は採択されたらきち�
 コードのメンテナンスはどう行っているか、等の苦労話やノウハウをお話しいたします。
 
 - Preferred presentation day: [ 9/14 ]
-- Presentation language: [Japanese]
+- Presentation language: [ Speaking:Japanese, Presentation: English ]
 
 ## Yuichi Tateno (@hotchpotch / id:secondlife)
 ## 舘野祐一
@@ -18,7 +21,7 @@ My talk description (すいません、英語概要は採択されたらきち�
 ## Cookpad Inc
 ## クックパッド株式会社
 
-VP Enginner at Cookpad
+VP Enginnering at Cookpad
 クックパッド技術部長。Web テクノロジー全般が好き。
 
 - [My website](http://d.hatena.ne.jp/secondlife/)
