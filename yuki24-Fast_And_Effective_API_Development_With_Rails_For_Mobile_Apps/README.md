@@ -18,4 +18,4 @@ Yuki has been working for Japan-based startups for many years as a web developer
 
 - [My website](http://yukinishijima.net/ja)
 - [My twitter](https://twitter.com/#!/yuki24)
-- [Past talk slides](https://speakerdeck.com/u/yuki24)
+- [Past talk slides](http://www.slideshare.net/YukiNishijima)
