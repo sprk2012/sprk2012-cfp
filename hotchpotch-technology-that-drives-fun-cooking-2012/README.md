@@ -1,9 +1,9 @@
 # Technology that drives fun cooking 2012
 # 料理を支える技術 2012
 
-Cookpad using Ruby and Rails and more technologies that drives fun cooking.
+Cookpad using Ruby and Rails and other technologies that drive fun cooking.
 
-Taking about what using technology and development web service.
+Talking about what technology and development web services are used.
 Example upgrade Rails 2.3 to 3, maintenance code.
 
 クックパッドでは、Ruby や Rails といった技術を利用し、様々な家庭の料理を支えています。
@@ -21,7 +21,7 @@ Example upgrade Rails 2.3 to 3, maintenance code.
 ## Cookpad Inc
 ## クックパッド株式会社
 
-VP Enginnering at Cookpad
+Software Enginner at Cookpad
 クックパッド技術部長。Web テクノロジー全般が好き。
 
 - [My website](http://d.hatena.ne.jp/secondlife/)
