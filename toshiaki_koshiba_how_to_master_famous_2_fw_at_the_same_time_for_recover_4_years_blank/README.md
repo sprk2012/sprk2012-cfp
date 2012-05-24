@@ -1,5 +1,5 @@
 # My talk title
-How to HIT famous 2 frameworks at the same time for recover 4 years blank
+How to master famous 2 frameworks at the same time for recover 4 years blank
 
 # タイトル (title in Japanese; optional)
 ４年のブランクをひっくり返す ２大フレームワーク一斉同時蹶起術
