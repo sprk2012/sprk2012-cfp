@@ -6,7 +6,7 @@ Being a beginner in any community can be tough, but it allows you to view the wo
 
 This talk will look into how we can not only help beginners have more magical, simple moments with Ruby but also what we can learn from them to help to make a better community. 
 
-Linda is one of the co-founders of the Rails Girls, a non-profit organization that runs workshops around the world for total beginners. From this experience, she has learned how to explain technical concepts for not so technical people to get them curious and included in the world of webmaking. For instance, you can describe an app stack as a bento lunch box, where each part like storage, logic or style has it own place.
+Linda is one of the co-founders of the Rails Girls, a non-profit organization that runs workshops around the world for total beginners. From this experience, she has learned how to explain technical concepts for not so technical people to get them curious and included in the world of webmaking. For instance, you can describe an app stack as a bento lunch box, where each part like storage, logic, or style has it own place.
 
 After being a Rails Girls coach, Terence got reminded again what it’s like to be a beginner. One of the things he realized was getting a basic Ruby and Rails environment up and running was way too hard. He started working with Yehuda Katz on Tokaido, a OS X Ruby and Rails installer meant to be extremely simple. Instead of requiring the developer to understand how to compile their own Ruby, it follows the standard OS X app installation. This means that a new user of any skill level can get up and running in minutes, not in days.
 
