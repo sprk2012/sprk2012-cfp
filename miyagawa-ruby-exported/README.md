@@ -13,7 +13,8 @@ In this talk, I'll take some examples of projects where I've been shamelessly in
 ## Tatsuhiko Miyagawa
 ## 宮川達彦
 
-## COOKPAD, Inc.
+![Avatar](https://secure.gravatar.com/avatar/49e1240c84b221f3dcca57d005a2f569)
+
 
 Tatsuhiko Miyagawa is a software engineer at COOKPAD. He grew up in Tokyo and Yokohama, and has been living in San Francisco since 2006. He is an author of hundreds of open source software published on GitHub, CPAN and RubyGems, and also known as a founder of Shibuya.pm and the world popular grass-roots Perl conference YAPC::Asia.
 
