@@ -12,7 +12,7 @@ This talk will provide an entertaining introduction of both Minecraft and the Pu
 - Presentation language: English
 
 ## Name: Thomas E. Enebo
-## トマス　エネボ
+## トーマス　エネボ
 
 ## Organization: JRuby, Red Hat
 
