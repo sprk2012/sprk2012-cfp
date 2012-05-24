@@ -21,7 +21,7 @@ Rubyはとても命令的な言語であり、Rubyでは純粋に関数的なプ
 ## Shugo Maeda
 ## 前田修吾
 
-## Networl Applied Communication Laboratory Ltd.
+## Network Applied Communication Laboratory Ltd.
 ## 株式会社ネットワーク応用通信研究所
 
 A Ruby programmer.
