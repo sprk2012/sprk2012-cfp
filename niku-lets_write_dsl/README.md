@@ -2,7 +2,7 @@
 # DSL 書こうぜ！
 
 My talk description
-I will talk how to write DSL with Ruby for beginner.
+I will give a talk on how to write a DSL with Ruby for beginners.
 
 発表概要
 DSL 初心者を対象に，DSL を書けるようになるために必要な知識とコードを伝えます．
