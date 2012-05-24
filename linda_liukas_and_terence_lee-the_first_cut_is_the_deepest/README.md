@@ -34,13 +34,16 @@ Terence works at Heroku, maintaining the Ruby stack and some OSS projects such a
 - [Rails Girls](http://railsgirls.com)
 - [Code Academy](http://codeacademy.com)
 - [hone.heroku.com](http://hone.heroku.com)
+
 ## Twitter
 - [@lindaliukas](https://twitter.com/#!/lindaliukas)
 - [@hone02](https://twitter.com/#!/hone02)
+
 ## Slides
 - [Linda - Railsberry](https://speakerdeck.com/u/lindaliukas/p/railsberry-presentation)
 - [Terence - Railsconf 2012](http://a-polyglot-heroku.herokuapp.com/)
 - [Terence - Red Dot Rubyconf 2012](http://bundle-y-u-so-slow-rdrc2012.herokuapp.com/)
 - [Terence - Boston.rb](http://rails-3-1-on-heroku.herokuapp.com/)
+
 ## Talks
 - [Terence - Boston.rb](http://bostonrb.org/presentations/heroku-and-rails-31)
