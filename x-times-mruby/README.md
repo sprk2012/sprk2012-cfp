@@ -28,7 +28,7 @@ Let's see how many mruby's we can code.
 Daniel Bovensiepen is currently living in China where he is building
 signaling systems for metros (subways) all over the world. Everyone
 is telling him that he can not use Ruby in these environments but he
-still insist on proving them wrong by showing how to integrate-
+still insist on proving them wrong by showing how to integrate
 non-safe technologies like Ruby into safety-critical environments without
 risks.
 
