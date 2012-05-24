@@ -11,9 +11,9 @@ Tengine: 名状しがたい DRb+Rake のようなものについて
 
 Title to be changed.
 
-We have been developing Tengine, a HA distributed workflow engine, in
-pure Ruby.  In this talk I would like to share fundamental concept of
-the framework and how did we achieve that.
+GROOVENAUTS Inc. have been developing Tengine, a HA distributed
+workflow engine, in pure Ruby.  In this talk I would like to share
+fundamental concept of the framework and how did we achieve that.
 
 Seems SPRK audiences are much trained.  I would like to give a talk
 not just a product introduction, but inspires you about ideas and
@@ -23,9 +23,9 @@ tricks behind it.
 
 タイトルは仮です。
 
-ピュアRubyで分散ワークフローエンジンを作ってTengineという名前で公開して
-います。このコンセプトと、それを達成するためにどのような実装が必要になっ
-たかを解説します。
+株式会社グルーヴノーツではピュアRubyで分散ワークフローエンジンを作って
+Tengineという名前で公開しています。このコンセプトと、それを達成するため
+にどのような実装が必要になったかを解説します。
 
 訓練された聴衆が多そうなのでプロダクト紹介に止まらずみなさんをインスパ
 イヤできるようなアイディアやトリックについて語っていきたいです。
@@ -47,11 +47,11 @@ Presenter is subject to change.
 
 ## My affiliation (required)
 
-GROOVENAUTS Inc.
+Network Applied Communication Lab., Inc.
 
 ## 所属 (name in Japanese; optional)
 
-株式会社グルーヴノーツ
+ネットワーク応用通信研究所
 
 ### My bio (required)
 
