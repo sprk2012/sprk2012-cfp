@@ -3,8 +3,16 @@
 # Voltron Architecture
 # ゴライオン アーキテクチャ
 
-Constructing a large Ruby system? It could be composed of many smaller
-services, working together or separately, in the browser and on mobile clients!
+We have all dealt with large, monolithic web applications before. They're
+painful to work with and are often highly coupled. Smaller applications and
+services are easier to handle, and you can think about them as a whole without
+hurting your brain.
+
+How can you write smaller, modular and loosely coupled applications while
+meeting the requirements of a rich featureset? Break the system down into services, and ...
+
+I'd like to guide you through the benefits of this type of system architecture
+and the ways to implement it.
 
 あなたは、大規模なRubyのシステムを構築していますか
 
@@ -17,8 +25,7 @@ services, working together or separately, in the browser and on mobile clients!
 ## Matthew Conway
 ## マシユー
 
-## Hashrocket Inc. && RubyJax
-## ハッシュロケット && RubyJax
+## Hashrocket Inc., RubyJax
 
 Matthew Conway is a Developer at Hashrocket in Jacksonville Beach, FL. He also
 organizes the RubyJax meetup group, and co-hosts the Ruby5 radio show.
