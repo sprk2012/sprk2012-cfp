@@ -3,9 +3,9 @@
 
 My talk description:
 
-JRuby team continue improving its runtime in approximately yearly major release cycles, to make it more compatible with CRuby, to get more benefits from Java, and to run it more effectively on JVM.  Especially for runtime efficiency, JRuby team did several optimizations in its runtime to execute Ruby code more and more faster utilizing feature of JVM.
+JRuby team continue improving its runtime in approximately yearly major release cycles, to make it more compatible with CRuby, to get more benefits from Java, and to run it more effectively on JVM.  Especially for runtime efficiency, JRuby team did several optimizations in its runtime to execute Ruby code more quickly utilizing features of the JVM.
 
-This talk will provide brief summary of past runtime optimizations in JRuby first, then it will introduce the following two optimizations that are continuously developed now.
+This talk will provide brief summary of past runtime optimizations in JRuby first, then it will introduce the following two optimizations that are actively being developed now.
 - Optimization of dynamic method dispatch with help from InvokeDynamic in Java SE 7
 - Changing execution model by introducing new internal representation: IR
 
@@ -14,7 +14,7 @@ This talk will provide brief summary of past runtime optimizations in JRuby firs
 
 JRubyは、CRubyとの互換性向上、Java資産のより良い活用、JVM上での効率的な動作をめざし、概ね年一回のメジャーリリースのたびに改善を行ってきています。特に効率的な動作のためには、JVMの性能を最大限に活かし、より高速にRubyコードを実行できるよう、最適化のための様々な試みを行ってきました。
 
-本発表ではまず、これまでにJRuby処理系に行われてきた最適化の概要を紹介したのち、現在行っている最適化のための試みとして、以下の2つの手法を紹介します。
+本発表ではまず、これまでにJRuby処理系に行われてきた最適化の概要を紹介したのち、現在積極的に開発を行っている最適化の試みとして、以下の2つの手法を紹介します。
 - Java SE 7 InvokeDynamic対応による、動的メソッドディスパッチの高速化
 - 新たな内部表現であるIR導入による、実行モデルの変更
 
@@ -26,7 +26,7 @@ JRubyは、CRubyとの互換性向上、Java資産のより良い活用、JVM上
 ## My name: Thomas E. Enebo, Hiroshi Nakamura
 ## 名前: トーマス エネボ, 中村浩士
 
-## My affiriation: JRuby, Red Hat(Thomas) / Appirio(Hiroshi)
+## My affiliation: JRuby, Red Hat(Thomas) / Appirio(Hiroshi)
 ## 所属: JRuby RedHat(Thomas) / 株式会社アピリオ(Hiroshi)
 
 My bio:
