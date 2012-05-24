@@ -34,7 +34,7 @@ We've used Thor to create our own Rails application template and it saves us hou
 Andrew is a Ruby on Rails and iOS Developer at We Are Titans in Norfolk, VA. He also runs Limelight for app developers. Andrew graduated from the Software Engineering program at Mohawk College in Hamilton, ON, Canada and is an avid productivity hacker. He loves Japan, Japanese, and providing for his wife and kids doing what he loves.
 
 - [We Are Titans](http://www.wearetitans.net)
-- [Limelight](http://limelightapp.com/)
+- [Limelight](https://www.limelightapp.com/)
 - [Gypsum](http://github.com/andrewculver/gypsum/)
 - [@andrewculver on Twitter](https://twitter.com/#!/andrewculver)
 - [Comments on Hacker News](http://news.ycombinator.com/threads?id=aculver)
