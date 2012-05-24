@@ -6,7 +6,7 @@
 
 ## My talk description
 
-The speed of software evolution is fast in the Ruby and Ruby on Rails world. We can try out the benefits of new features quickly, but on the other hand we need to adapt to a changing development environment. There are some explanations of how to build a development environment in books and on web sites, but many are old leading to sub-standard solutions.
+Software evolves rapidly in the Ruby and Ruby on Rails world. We can try out the benefits of new features quickly, but on the other hand we need to adapt to a changing development environment. There are some explanations of how to build a development environment in books and on web sites, but many are old leading to sub-standard solutions.
 
 In this presentation, I'll explain how to build a coding environment easily on Windows, Mac and the Linux platform. I'll also show how you can change it to meet your personal preferences, and point out places you'll need to take care.
 
@@ -41,7 +41,7 @@ Ruby も Ruby on Rails も進化が速く、新しい機能の便利さを享受
 
 ## My bio (required)
 
-I'm working using Ruby on Rails, and I'm also part-time instructor to teach Ruby and Rails in University. We've struggled to run ruby many platforms. And we enjoy happy coding time in the class. Author of "Start-up Ruby" (be scheduled for publication). I did Lightning talks timer staff in SapporoRubyKaigi#1,#2 and #3.
+I'm working using Ruby on Rails, and I'm also a part-time instructor teaching Ruby and Rails at University. We've struggled to run ruby on many platforms. And we enjoy happy coding time in the class. Author of "Start-up Ruby" (scheduled for publication). I was a Lightning talk timer staff in SapporoRubyKaigi #1, #2 and #3.
 
 ## プロフィール (bio in Japanese; optional)
 
