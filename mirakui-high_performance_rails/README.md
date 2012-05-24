@@ -7,8 +7,8 @@ This presentation is the story that we Cookpad are fighting against the problems
 We rewrote whole codes of Cookpad.com by Ruby on Rails in 2008.
 Since then we've been had an aim that we keep the average response time be under 200 ms.
 
-In this presentation, I'll introduce ways how to make websites fast using Rails based on our experiences.
-And I'll talk about how engineers who have responsibility to site's performance should work in their company.
+In this presentation, I'll introduce ways to make websites fast using Rails based on our experiences.
+And I'll talk about how engineers who are responsible for site's performance should work in their company.
 
 なぜウェブサイトは日に日に遅くなってしまうのでしょうか。
 なぜ Ruby on Rails は遅いと言われてしまうのでしょうか。
