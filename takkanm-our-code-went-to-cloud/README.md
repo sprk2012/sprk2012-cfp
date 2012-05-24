@@ -1,8 +1,11 @@
-# Our Code Went To Cloud.
+# Our Code Went To Cloud. 〜Ways to Save Your Job in Social Coding Work〜
 # Our Code Went To Cloud. 〜ソーシャルコーディング時代のふつうのプログラマサバイバルガイド〜
 
-My talk description
+## My talk description
+I'm Rubyist working for Eiwa System Management, Inc.
 
+
+## My talk description(Japanese)
 私は永和システムマネジメントという会社でRubyプログラマをやっています。
 
 弊社には、edgeなRubyモヒカンや、古きよきオブ厨が多数います。
@@ -13,7 +16,6 @@ My talk description
 自分の職場にソーシャルコーディングができる環境がやってきたとき、
 ふつうのプログラマがどのように立ち振るまうとよいのかということ、
 実体験を交わえ話します。
-
 
 - Preferred presentation day: no preference
 - Presentation language: Japanese
@@ -30,9 +32,13 @@ asakusa.rb
 ## 所属 (name in Japanese; optional)
 永和システムマネジメント、 asakusa.rb
 
-My bio (required)
+## My bio (required)
+Rubyist in Eiwa System Management, Inc.
+Mail clerk and Door man at asakusa.rb
+I have held Rails Study @ Tokyo.
 
-プロフィール (bio in Japanese; optional)
+
+## プロフィール (bio in Japanese; optional)
 
 永和システムマネジメント所属のRubyist。
 asakusa.rbのメール、 ドア係。
@@ -40,4 +46,4 @@ asakusa.rbのメール、 ドア係。
 
 - [My website](http://takkanm.github.com/)
 - [My twitter](https://twitter.com/#!/takkanm)
-- [Past talk slides and code](http://coderwall.com/takkanm)
+- [Past talk slides and code(coderwall)](http://coderwall.com/takkanm)
