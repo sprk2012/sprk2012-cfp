@@ -22,7 +22,7 @@ Kakutani Shintaro
 
 ## My affiliation (required)
 
-Ruby no Kai || Eiwa System Management, Inc.
+Ruby no Kai(Japan Ruby Group) || Eiwa System Management, Inc.
 
 ## 所属 (name in Japanese; optional)
 
@@ -30,11 +30,15 @@ Ruby no Kai || Eiwa System Management, Inc.
 
 ## My bio (required)
 
-(I'll write this later)
+Kakutani Shintaro is a just another strong Ruby proponent, working for Eiwa System Management,Inc as 'community manager', a board member of Nihon Ruby-no-kai(Japan Ruby Group) and a core member of Asakusa.rb.
+
+He is one of the organizers of RubyKaigi since 2006. the founder of Regional RubyKaigi. He have translated some english technical book into japanese: "Agile Samurai"(co-supervisor), "Agile Estimating and Planning"(co-translator), "Practices of an Agile Developer"(co-supervisor) and a few other books.
 
 ## プロフィール (bio in Japanese; optional)
 
-(あとで書く)
+ただのRuby厨。(株)永和システムマネジメント サービスプロバイディング事業部コミュニティマネージャ。一般社団法人日本Rubyの会理事。自称Asakusa.rb幹部。
+
+2006年から日本Ruby会議の運営に携わり、地域Ruby会議プロジェクトを開始した。著作は『アジャイルサムライ』(共同監訳)や『アジャイルな見積りと計画づくり』(共同翻訳)、『アジャイルプラクティス』(共同監訳)他、技術書の翻訳書が多数。
 
 - [website](http://www.kakutani.com)
 - [@kakutani](https://twitter.com/#!/kakutani)
