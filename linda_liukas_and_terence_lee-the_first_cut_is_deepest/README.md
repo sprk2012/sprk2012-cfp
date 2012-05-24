@@ -25,7 +25,7 @@ Reaching out and including people is important to the growth of the community. I
 
 ## My bio (required)
 ### Linda Liukas
-Linda (@lindaliukas) is a casual programmer from Helsinki, Finland. Having never really outgrown fairytales, she sees the web as a maze of stories and wants to hear more female voices in that world. Her aim is to give girls the tools and the vocabulary to enter the playground and build the world of web as they see it - more Sofia Coppola, less Barbie. Dividing her time between Helsinki and San Francisco, Linda loves 3D printers, Muji and Zelda Fitzgerald. 
+Linda is a casual programmer from Finland and now a community manager at Codecademy. Having never really outgrown fairytales, she sees the web as a maze of stories and wants to hear more female voices in that world. Dividing her time between Helsinki and New York, Linda loves 3D printers, Muji and Zelda Fitzgerald.
 
 ### Terence Lee
 Terence works at Heroku, maintaining the Ruby stack and some OSS projects such as Bundler and Resque. On his free time, he helps the Rails Girls movement. When he's not going to an awesome Heroku or Ruby event, he lives in Austin, TX, the taco capital of America.
