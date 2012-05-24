@@ -1,4 +1,4 @@
-# The First Cut is the Deepest
+# The First Cut is Deepest
 
 > Zen Master Shunryu Suzuki said that  “In the beginner’s mind there are many possibilities, but in the expert’s mind there are few” 
 
