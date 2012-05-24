@@ -10,7 +10,7 @@ Based on my experience in front-end in general and Haml, Sass/Compass and Coffee
 
 Things to cover: how does the HTML5 document outline help with creating reusable chunks of code, how to structure your HTML and Sass in a way that enables reusing "modules" and how to bind JavaScript events without tying your JS too closely to your HTML and CSS. I'll touch on the asset pipeline too.
 
-I have given this talk at [wroc_love.rb](http://wrocloverb.com/) in Wroclaw, Poland and [RubyNation](http://www.rubynation.org/) in Reston, VA,USA in March. In June I'll be giving this presentation at [Euruko](http://euruko2012.org/) and [Ruby Lugdunum](http://rulu.eu/). Here's the [video from Wroc_love.rb](http://www.youtube.com/watch?v=T6-75HdADc8) (30 minute version).
+I have given this talk at [wroc_love.rb](http://wrocloverb.com/) in Wroclaw, Poland and [RubyNation](http://www.rubynation.org/) in Reston, VA,USA in March. Later this year I'll be giving this presentation at [Euruko](http://euruko2012.org/), [Ruby Lugdunum](http://rulu.eu/), [ArrrrCamp](http://arrrrcamp/be/) and a conference in the Ukraine. Here's the [video from Wroc_love.rb](http://www.youtube.com/watch?v=T6-75HdADc8) (30 minute version).
 
 You'll find some attendee responses in [this Storify](http://storify.com/roy/some-tweets-about-my-wrocloverb-talk). It may be interesting to read the comments to [my Euruko pull request](https://github.com/euruko2012/call-for-proposals/pull/6) too, with comments from organizers, attendees, well-known speakers and a Compass core member.
 
