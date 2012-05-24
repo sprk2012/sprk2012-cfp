@@ -17,8 +17,8 @@ Let's see how many mruby's we can code.
 - use-cases
 
 *Meta*
-- Preferred presentation day: [no preference]
-- Presentation language: [English]
+- Preferred presentation day: no preference
+- Presentation language: English
 
 ## Daniel Bovensiepen
 ## 大波
@@ -39,7 +39,7 @@ implementation which can easily run directly on embedded devices.
 With the rising of mruby his dream of making embedded programming
 as easy as web programming might come true in the long-run.
 
-- [My website](http://www.bovensiepen.net)
+- [My github](https://github.com/bovi)
 - [My twitter](https://twitter.com/#!/bovensiepen)
 - [Organizer of Germany.rb (Videos in german language)](http://vimeo.com/bovi)
 - [Hello World From The Other Side Of Earth (RubyKaigi 2009)](http://www.slideshare.net/bovi/hello-world-from-the-other-side-of-earth)
