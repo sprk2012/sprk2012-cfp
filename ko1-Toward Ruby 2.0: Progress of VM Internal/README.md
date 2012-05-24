@@ -15,8 +15,13 @@ Ruby 2.0 release.
 - Preferred presentation day: no preference
 - Presentation language: Japanese
 
-## Koichi Sasada
-## Heroku, Inc.
+## My name (required)
+Koichi Sasada
+
+## My affiliation (required)
+Heroku, Inc.
+
+## My bio (required)
 
 A Ruby (MRI) developer (Virtual machine), Heroku, Inc.
 
