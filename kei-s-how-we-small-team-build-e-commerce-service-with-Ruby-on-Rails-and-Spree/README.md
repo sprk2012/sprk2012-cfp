@@ -1,12 +1,12 @@
-# How we small team build e-commerce service w/ Ruby on Rails and Spree
+# How a small team built an e-commerce service w/ Ruby on Rails and Spree
 # Spree で約3ヶ月でイチからEコマースサービスを作るまで
 
-I talk about how we build and operate e-commerce service, started from no experience with e-commerce.
+I will talk about how we built and operate an e-commerce service, starting from no experience with e-commerce.
 
-We select Ruby on Rails and  [Spree](http://github.com/spree/spree), and launch in about three month. 
-I show the trick or know-how with coding Spree, first time in Japan (as I know).
+We chose Ruby on Rails and [Spree](http://github.com/spree/spree), and launched in about three months.
+I will show tricks and know-how with coding Spree, for the first time in Japan (as far as I know).
 
-And I talk how we small team develop and operate rapid start-up service.
+I will also talk about how our small team developed and operate a rapid start-up service.
 
 それまでEコマースの経験のなかった発表者が、如何にしてイチからEコマースサービスを作り、運用しているのかをお伝えします。
 
@@ -26,8 +26,8 @@ And I talk how we small team develop and operate rapid start-up service.
 
 My bio (required)
 
-Kei Shiratsuchi is working for [Oh My Glasses](http://www.ohmyglasses.jp), e-commerce start-up about eyeglasses.
-He is from Sapporo, and loves JavaScript, Ruby.
+Kei Shiratsuchi is working for [Oh My Glasses](http://www.ohmyglasses.jp), an e-commerce start-up for glasses.
+He is from Sapporo, and loves JavaScript and Ruby.
 
 ディスカバリーエンジンを開発するベンチャー勤務ののちフリーランスをへて、現在はメガネ・サングラス通販のスタートアップ [Oh My Glasses](http://www.ohmyglasses.jp) に携わる。札幌市出身。Web+DB PRESS にて2011-12年にかけて Ruby の連載を担当。RubyKaigi2010, 2011実行委員。人と情報のつながりを考えるのが好き。好きな言語はJavaScriptとRuby。好きな小説家は舞城王太郎。
 
