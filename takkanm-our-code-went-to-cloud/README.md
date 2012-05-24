@@ -4,6 +4,11 @@
 ## My talk description
 I'm Rubyist working for Eiwa System Management, Inc.
 
+There are a lot of Ruby morphine perception in our company.
+From last year, GitHub was introduced into the company, until then, the cord which shared only in the project became easy to see for various people, and it was in a situation that it was easy to get various feedback.
+We think the environment to perform social coding such as GitHub will spread even work in the future.
+
+When a social coding environment comes to your workplace, how should an ordinary programmer feel and act? We will talk about it with actual cases.
 
 ## My talk description(Japanese)
 私は永和システムマネジメントという会社でRubyプログラマをやっています。
