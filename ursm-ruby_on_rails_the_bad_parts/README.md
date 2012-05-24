@@ -6,7 +6,7 @@ Keywords: Decorator (Presenter), Rails Cells, DCI (Data Context Interaction)
 
 ますます洗練の度合いを高めるRailsですが、反面そこに潜む闇もまた深くなっています。Helperのどうしようもなさ、filter + partialとEnginesの間を埋めるレイヤの不在、「Skinny Controller, Fat Model」という罪深い嘘—本発表はそれらをバッサリと斬り捨て、今後の展望について語ります。
 
-キーワード: Decorator (Presenter), Rails Cells, DCI (Data Context Interaction)
+キーワード: Decorator (Presenter), Cells, Apotomo
 
 - Preferred presentation day: no preference
 - Presentation language: Japanese
