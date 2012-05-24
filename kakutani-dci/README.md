@@ -1,16 +1,25 @@
 # My talk title
-# DCI and the software builds our mental models(tentative)
+# DCI and the application builds our mental models
 
 ## My talk description
 
-(I'll write this later)
+(I'd like to be going to improve and push this by 'the judgement day' )
 
-## 発表概要 (talk description in Japanese; optional)
+[DCI(Data, Context and Interaction)](http://en.wikipedia.org/wiki/Data,_Context,_and_Interaction) is a "paradigm" in object-oriented application design and getting popular in some object-oriented proponent Rubyists. In this talk, we'll discuss:
 
-(あとで書く)
+- Why object-oriented proponent Rubyist mention DCI?
+- What's DCI and DCI is complementary to MVC framework -- Ruby on Rails.
+- (So far)How to avoid 'Too fat to be a model' and/or 'Fat Controller' in Rails App using DCI.
+- Case Study
+
+After this talk you'll stand the starting point to improve the design of your application more clear and concise.
 
 - Preferred presentation day: no preference
 - Presentation language: Japanese
+
+## 発表概要 (talk description in Japanese; optional)
+
+(あとで書きます)
 
 ## My name (required)
 
