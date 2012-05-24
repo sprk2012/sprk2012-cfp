@@ -12,9 +12,9 @@ Code can be many things to many different people. It is automation as well as co
 ## 向井ジョニー
 
 ## Pivotal Labs (NYC)
-## ピヴォトルラブス(NYC)
 
 Jonathan Mukai-Heidt is an anthropologist working undercover as a Software Engineer at Pivotal Labs. When not in the office he enjoys teaching Ruby to beginners. He lives in Brooklyn with his wife and three cats.
+
 ソフトウェアエンジニアに変装する人類学者であり、Pivotal Labsのために働いている。初心者にルビーを教えることが好きだ。妻と3匹の猫とブルックリンに暮らしている。
 
 - [My website](http://www.johnnymukai.com)
