@@ -24,7 +24,7 @@ JRubyは、CRubyとの互換性向上、Java資産のより良い活用、JVM上
 - Presentation language: English / Japanese
 
 ## My name: Thomas E. Enebo, Hiroshi Nakamura
-## 名前: トマス エネボ, 中村浩士
+## 名前: トーマス エネボ, 中村浩士
 
 ## My affiriation: JRuby, Red Hat(Thomas) / Appirio(Hiroshi)
 ## 所属: JRuby RedHat(Thomas) / 株式会社アピリオ(Hiroshi)
@@ -38,7 +38,7 @@ Hiroshi Nakamura (NaHi) has 14 years of experience with custom software developm
 
 プロフィール:
 
-トマス エネボはJRubyプロジェクトのリーダーの一人であり、Red Hatの社員です。彼はHotJavaブラウザーの全盛期以来のJava専門家ですが、2001年からはRubyも好んで利用しています。また数々のJavaおよびRubyカンファレンスで講演を行い、"Using JRuby"を共著し、JavaOneにて"Rock Star"賞を受賞しました。仕事以外では自転車、アニメ、優れたIPAを楽しんでいます。
+トーマス エネボはJRubyプロジェクトのリーダーの一人であり、Red Hatの社員です。彼はHotJavaブラウザーの全盛期以来のJava専門家ですが、2001年からはRubyも好んで利用しています。また数々のJavaおよびRubyカンファレンスで講演を行い、"Using JRuby"を共著し、JavaOneにて"Rock Star"賞を受賞しました。仕事以外では自転車、アニメ、優れたIPAを楽しんでいます。
 
 中村浩士（なひ）はネットワークセキュリティーにフォーカスしたシステム開発で14年の経験を持ち、現在は株式会社アピリオでテクニカルアーキテクトの職に就いています。CRubyとJRubyのコミッタであり、10年以上に渡り、数々のオープンソースソフトウェア開発に関わっています（HTTPClient、soap4r等）。
 
