@@ -10,6 +10,7 @@ However, development with new search backend is required extremely-different tec
 
 In this presentation, we propose pragmatic methods to solve this problem.
 There are two viewpoints:
+
 1. How to build new search system in a large-scale web service.
 2. How to make it possible to do more challenging service developments around search for ruby/rails engineers (unfamiliar with search techniques).
 
@@ -22,6 +23,9 @@ There are two viewpoints:
 
 本発表では、「いかにして大規模サービス上で検索機能を構築するか」、そして「いかににして (検索を専門としない) 技術者が検索を扱ったサービス開発を積極的に行なえるようにするか」という2つの観点で、大規模ウェブサービスにおける検索機能の開発について実践的な方法を紹介する。
 
+- Preferred presentation day: no preference
+- Presentation language: Japanese (slides in English)
+
 ## Shimpei Makimoto
 ## 牧本 慎平
 
@@ -30,7 +34,7 @@ There are two viewpoints:
 
 Shimpei Makimoto is a software engineer.
 He is responsible for search service infrastructures at COOKPAD Inc., Tokyo, Japan.
-He loves sushi, automn, glitch and coding.
+He loves sushi, autumn, glitch and coding.
 
 牧本慎平。1983年熊本生まれ。ソフトウェアエンジニア。クックパッド株式会社技術部に属し、検索の基盤技術に責任を負う。
 寿司と秋とグリッチとコードを書くことを愛す。
