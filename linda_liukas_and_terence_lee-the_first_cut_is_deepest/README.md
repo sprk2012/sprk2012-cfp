@@ -10,7 +10,7 @@ Linda is one of the co-founders of the Rails Girls, a non-profit organization th
 
 After being a Rails Girls coach, Terence got reminded again what it’s like to be a beginner. One of the things he realized was getting a basic Ruby and Rails environment up and running was way too hard. He started working with Yehuda Katz on Tokaido, a OS X Ruby and Rails installer meant to be extremely simple. Instead of requiring the developer to understand how to compile their own Ruby, it follows the standard OS X app installation. This means that a new user, of any skill level can get up and running in minutes and not in days.
 
-Reaching out and including people is important to the growth of the community. It allows us to reach a whole new audience of users like parents, siblings, or kids. These kind of people bring a refreshing perspective to the table which leads to simpler tools and makes the ecosystem more awesome even for veterans.
+Reaching out and including people is important to the growth of the community. It allows us to grab a whole new audience of users like parents, siblings, or kids. These kind of people bring a refreshing perspective to the table which leads to simpler tools and makes the ecosystem more awesome even for veterans.
 
 - Preferred presentation day: [no preference]
 - Presentation language: [English]
