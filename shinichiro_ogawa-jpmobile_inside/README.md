@@ -1,6 +1,6 @@
-# jpmobile inside
+# The inside of jpmobile
 
-Jpmobile is a requisite Rails plugin for mobile phones in Japan, including Feature Phone and Smart Phone.
+Jpmobile is a essential Rails plugin for mobile phones in Japan, including Feature Phone and Smart Phone.
 Recently, some features are added; sending emoticon email and decomail, tablet classes.
 
 In this presentaion, I will introduce the inside of jpmobile. The main topics are the followings:
