@@ -2,7 +2,7 @@
 
 Rails is getting more sophisticated as time goes by. However, there are may pitfalls out there. That is to say, Helper is useless, the layer we need doesn't exist fills between filter/partial and Engines and the misguiding concept like "Skinny Controller, Fat Model". In this talk, I will review these issues and tell you some perspectives in a future of developing Rails applications.
 
-Keywords: Decorator (Presenter), Rails Cells, DCI (Data Context Interaction)
+Keywords: Decorator (Presenter), Cells, Apotomo
 
 ますます洗練の度合いを高めるRailsですが、反面そこに潜む闇もまた深くなっています。Helperのどうしようもなさ、filter + partialとEnginesの間を埋めるレイヤの不在、「Skinny Controller, Fat Model」という罪深い嘘—本発表はそれらをバッサリと斬り捨て、今後の展望について語ります。
 
