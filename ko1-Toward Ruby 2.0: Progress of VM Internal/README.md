@@ -18,10 +18,7 @@ Ruby 2.0 release.
 ## Koichi Sasada
 ## Heroku, Inc.
 
-## My affiliation (required)
-## 所属 (name in Japanese; optional)
-
-Ruby developer (Virtual machine) (http://www.atdot.net/~ko1/), Heroku, Inc.
+A Ruby (MRI) developer (Virtual machine), Heroku, Inc.
 
 - [My website](http://www.atdot.net/~ko1/)
 
