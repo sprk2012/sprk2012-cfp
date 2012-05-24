@@ -2,7 +2,7 @@
 
 # プログラミングを楽しむための最適化
 
-Development is not equal to programming. You have to do many other works like issue management, good communication, prioritizatino of feature development and other stuff to develop something with others. You programmers can't avoid these works if you're in a small team.
+Development is not equal to programming. You have to do many other works like issue management, good communication, prioritization of feature development and other stuff to develop something with others. You programmers can't avoid these works if you're in a small team.
 Thus, for programming lovers the optimization of efficiency in these non-programming works is important as well as that in programming.
 
 In this talk, I'll show how to build a joyful and efficient environment for development based on our struggling experiments in a small team.
@@ -25,7 +25,7 @@ In this talk, I'll show how to build a joyful and efficient environment for deve
 ## Increments Inc.
 ## インクリメンツ株式会社
 
-Hiroshige UMINO is CEO and a software engineer at Increments Inc. He've been developing [Qiita(キータ)](http://qiita.com) and [Kobito](http://kobitoapp.com) to make programming more delightful and efficient since 2011. He was an internship & part-timer at Hatena and an internship at Google. He loves Emacs and Ruby.
+Hiroshige UMINO is CEO and a software engineer at Increments Inc. He's been developing [Qiita(キータ)](http://qiita.com) and [Kobito](http://kobitoapp.com) to make programming more delightful and efficient since 2011. He was an internship & part-timer at Hatena and an internship at Google. He loves Emacs and Ruby.
 
 
 インクリメンツ株式会社CEO&ソフトウェアエンジニア．プログラミングをより楽しく，また効率良いものとするために[Qiita(キータ)](http://qiita.com)や[Kobito](http://kobitoapp.com)の開発を行っている．元はてなインターン&アルバイト，Googleインターン．EmacsとRubyが好き．
