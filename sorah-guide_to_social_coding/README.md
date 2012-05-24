@@ -67,7 +67,7 @@ __social coding を実践する方法__ を説明します。
 
 A Ruby committer. Coding part-time at COOKPAD Inc. (of course I code socially)
 
-中卒フリーター兼 Ruby コミッター ("偽りの厨二")。クックパッド株式会社でアルバイトしてます。
+中卒フリーター兼 Ruby コミッター ("偽りの厨二")。そらはーとも呼ばれています。クックパッド株式会社でアルバイトしてます。
 
 * [My GitHub](https://github.com/sorah)
 * [My website](http://sorah.jp/)
