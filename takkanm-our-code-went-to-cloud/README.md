@@ -19,14 +19,21 @@ My talk description
 - Presentation language: Japanese
 
 ## My name (required)
+Mitsutaka Mimura
 ## お名前 (name in Japanese; optional)
+三村 益隆
 
 ## My affiliation (required)
+Eiwa System Management, Inc.
+asakusa.rb
+
 ## 所属 (name in Japanese; optional)
 永和システムマネジメント、 asakusa.rb
 
 My bio (required)
+
 プロフィール (bio in Japanese; optional)
+
 永和システムマネジメント所属のRubyist.
 asakusa.rbのメール、 ドア係.
 終われと言われて早2年、 Rails勉強会@東京を開催したりしてます.
