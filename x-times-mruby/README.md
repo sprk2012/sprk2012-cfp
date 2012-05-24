@@ -6,7 +6,7 @@ already proofs to be useful by being slim and still powerful.
 
 I want to introduce a new approach of customizing a Ruby Interpreter for
 a specific task. Having such a strip-down Ruby implementation could make
-it feasable to approach i.e. parallelism in an Erlang way. Or open even
+it feasible to approach i.e. parallelism in an Erlang way. Or open even
 more areas to Ruby.
 
 Let's see how many mruby's we can code.
