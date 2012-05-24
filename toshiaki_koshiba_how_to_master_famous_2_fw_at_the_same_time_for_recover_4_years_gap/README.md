@@ -1,21 +1,21 @@
 # My talk title
-How to master famous 2 frameworks at the same time for recover 4 years blank
+How to master famous 2 frameworks at the same time for recover 4 years gap
 
 # タイトル (title in Japanese; optional)
 ４年のブランクをひっくり返す ２大フレームワーク一斉同時蹶起術
 
 ## My talk description
 
-「We can make We code! We can revover blank period!!」
+「We can make We code! We can revover some gap!!」
 
-Not unusual to use Ruby and Rails by work.
+Not unusual to use Ruby and Rails at work.
 But, I do not use Rails since 2008.
 
 However, I have begun to utilize Ruby and Rails from May, 2012.
-I upset this Rails interregnum of 4 years and start Padrino  in a short term.
+I'm recovering this Rails interregnum of 4 years and start Padrino  in a short amount of time.
 so I develop the system comfortably happily.
 
-In this session I talk about how to learn Rails & Padrino  at the same time, technique that confronted the 4 years blank and flexible + tough application development.
+In this session I talk about how to learn Rails & Padrino  at the same time, technique that confronted the 4 years gap and flexible + robust application development.
 
 ## 発表概要 (talk description in Japanese; optional)
 
