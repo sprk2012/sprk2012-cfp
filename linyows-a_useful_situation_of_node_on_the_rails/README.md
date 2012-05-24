@@ -19,7 +19,7 @@ paperboy&co., Inc.
 
 ## My bio (required)
 
-Tomohisa was a developer at paperboy&co making FANIC even more awesome.  
+Tomohisa wowrks as a developer at paperboy&co making FANIC even more awesome.  
 He has a project of [style-book website](http://scrapture.org/).  
 It is popular with japanese fashionista.
 
