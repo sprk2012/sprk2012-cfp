@@ -1,8 +1,8 @@
-# Inside 30days Album - Fighting with legacy Rails
+# Inside 30days Album - Fighting against legacy Rails
 
-[30days Album](http://30d.jp/), known as an online photo sharing service, was launched at Apr. 2008. This is one of the legacy Rails application because of two reasons. Firstly, it depends on very old version of Rails. Secondly, there are not enough automated test suite. That is the destiny of historical application.
+[30days Album](http://30d.jp/), known as an online photo sharing service, was launched at April 2008. This is a legacy Rails application for two reasons. Firstly, it depends on a very old version of Rails. Secondly, there is not enough of an automated test suite. That is the destiny of historical application.
 
-In my presentation, I will introduce various topics includes the knowledge of development/operation of legacy Rails application, the hardship of legacy, the difficulty of adding test suite against existing application, and the mind of fighting with legacy Rails application.
+In my presentation, I will introduce various topics including the knowledge of development/operation of legacy Rails applications, the hardship of legacy, the difficulty of adding tests against existing applications, and the attitude of fighting with legacy Rails application.
 
 # 30days Album の裏側 - レガシー Rails 編
 
