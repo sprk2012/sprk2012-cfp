@@ -9,14 +9,14 @@ a specific task. Having such a strip-down Ruby implementation could make
 it feasable to approach i.e. parallelism in an Erlang way. Or open even
 more areas to Ruby.
 
-Lets see how many mruby's we can have.
+Let's see how many mruby's we can code.
 
-_Content_
-* mruby implementation basics
-* how to modify mruby
-* mruby's footprint
-* mruby's limitation
+*Content*
+- implementation basics (how does it work and how to modify)
+- footprint and limitation
+- use-cases
 
+*Meta*
 - Preferred presentation day: [no preference]
 - Presentation language: [English]
 
