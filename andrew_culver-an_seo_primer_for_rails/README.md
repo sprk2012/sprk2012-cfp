@@ -2,7 +2,7 @@
 
 Clients, customers and employers are constantly asking about it, and they should be. Competing successfully for organic search traffic can make or break a site or product. And although it can take some effort, there is really no mystery what major search engines are looking for.
 
-Using Google's Search Engine Optimization Starter Guide as, well, our guide, we'll review the SEO basics and corresponding example implementations with Rails and related gems. We'll also look at some high-impact topics, like combining your existing search functionality and advanced routes to create static landing pages that cater to long-tail search terms.
+Using Google's Search Engine Optimization Starter Guide as, well, our guide, we'll review the SEO basics and corresponding example implementations with Rails and related gems. We'll also discuss common and costly mistakes people make when maintaining existing applications and how they can be easily avoided. Finally, we'll look at some high-impact topics, like combining your existing search functionality and advanced routes to create static landing pages that cater to long-tail search terms.
 
 - Preferred presentation day: no preference
 - Presentation language: English
