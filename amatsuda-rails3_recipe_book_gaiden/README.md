@@ -10,8 +10,8 @@ Rails3レシピブックの発刊後1年の間に新たに開発された新作�
 - Preferred presentation day: no preference
 - Presentation language: Japanese
 
-## Akira Matsuda (and special guests?)
-## 松田 明
+## Akira Matsuda and Special Guests
+## 松田 明 (+ 豪華ゲスト陣)
 
 ## Asakusa.rb
 ## Asakusa.rb
