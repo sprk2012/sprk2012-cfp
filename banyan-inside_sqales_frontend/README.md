@@ -4,7 +4,7 @@
 
 I will talk about the frontend development of [Sqale](http://sqale.jp).
 
-@mizzy will also talk about the backend architecture of Sqale frontend by RoR as "Inside Sqale's Backend".
+@mizzy will also talk about the backend architecture of Sqale as "Inside Sqale's Backend".
 
 # Sqale の表側
 
