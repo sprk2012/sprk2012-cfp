@@ -19,7 +19,17 @@ After this talk you'll stand the starting point to improve the design of your ap
 
 ## 発表概要 (talk description in Japanese; optional)
 
-(あとで書きます)
+[DCI(Data, Context and Interaction)](http://en.wikipedia.org/wiki/Data,_Context,_and_Interaction)はオブジェクト指向アプリケーションに対する「パラダイム」のひとつです。随分大きく出ましたね。DCIは設計手法やデザインパターン以上の存在、すなわち我々プログラマはオブジェクト指向アプリケーションの認識の枠組みであるとDCIの提唱者(Trygve Reenskaug)とDCIのエヴァンジェリスト(James O.Coplien)は言っています。ちなみに、DCIの提唱者であるReenskaug氏はMVCの提唱者でもあり、彼らによればDCIはMVCアーキテクチャを補完するものであるとのことです。その意味ではDCIはアーキテクチャと呼べるかもしれません。
+
+そんなDCIが近頃、OO厨系Rubyistの関心を集めています(例:["Objects on Rails"](http://objectsonrails.com/),["Clean Ruby"](http://clean-ruby.com/))。なぜでしょうか？  その背景には、MVCアーキテクチャを具現化したフレームワークであるRuby on RailsによるWebアプリケーションが初期構築から時を経るとともに保守しづらくなっている状況が背景にあるのではないかと講演者は考えています。"Skinny Controller, Fat Model"の教えに従った結果、太りすぎてモデルとしてやっていけないモデル(Too Fat to be a model)や、取り散らかったpartialやHelper、肥大化するApplicationController……。
+
+こんにち本番稼動しているRailsアプリケーションに手を入れる際に、「こうであって欲しい」というあなたの予断、期待、思考の枠組み(マインドセット)を裏切られたことはありませんか？ いっそ全て捨ててやり直せたら……と思いながらも日々、目の前で動いているアプリケーションに手を入れていませんか？ 本番稼動してからそれなりに日も経ち、ユーザーに対して価値を提供し続けているので、納得いかないコードの塊なってるけれども、現実問題としては捨てられない……講演者にも多数心当たるアプリケーションがあります。テストだってそれなりに書いてるのに！ なぜだ！
+
+Ruby on Railsは、最も成功したMVCアーキテクチャによるWebアプリケーションフレームワークです。ですが、だからといってRuby on Railsで構築すればアプリケーションの成功——ユーザーとプログラマの双方にとって幸福な結果——が約束されるわけではありません。DCIアーキテクチャは、Ruby on Railsに足りない部分、つまり「あなたの」アプリケーションをどう捉えるべきかという考え方を支援します。
+
+ただし残念ながらDCIにはまだ、MVCにとってのRuby on Railsのようなソリューションは存在していません。ですが、それでもやはりDCIの考えかたからは「あなたの」アプリケーションのコードをもっと読みやすく、見通しよくするためのヒントを多く学ぶことができます。
+
+本発表は、講演者が携わっているWebアプリケーションプロダクトでの実践例を踏まえ、Ruby on Railsを使ったWebアプリケーションの構築にあたって、どのようにDCIを活用できるかを皆さんにお伝えします。
 
 ## My name (required)
 
