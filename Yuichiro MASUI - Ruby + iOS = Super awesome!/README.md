@@ -4,7 +4,7 @@ Are you fed up with Objective-C? Now, you can build iOS apps with mruby.
 
 MobiRuby aims to replace Objective-C/C/Java on mobile platforms with Ruby, just like you can use Lua or Mono to build apps on those platforms. 
 
-In this presentation, I will talk about how to create iOS app using MobiRuby and inside MobiRuby.
+In this presentation, I will talk about how to create iOS app using MobiRuby and MobiRuby internals.
 
 - Preferred presentation day: [no preference]
 - Presentation language: [Japanese]
