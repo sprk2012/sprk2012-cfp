@@ -2,7 +2,7 @@
 # Ruby CI と楽しいリバート生活
 
 The Ruby CI, a CI constructed from chkbuild clients and gathering server,
-make us possible to keep the ruby implementation green.
+make it possible to keep the ruby implementation green.
 But it needs more efforts to fixing merged bugs.
 There are some patterns:
 
@@ -10,7 +10,7 @@ There are some patterns:
 - revert broken commit
 - fix bug
 
-I'll introduce some example them and show you how to join and enjoy
+I'll introduce some examples of them and show you how to join and enjoy
 CRuby development.
 
 Ruby CI を何度も見つめてテストの大切さを世に広める事で
