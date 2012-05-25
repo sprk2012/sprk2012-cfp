@@ -2,7 +2,7 @@
 
 Sqale is a Ruby PaaS from paperboy&co., Inc.
 
-I will talk about the testing of Sqale' Linux Containers with Rspec
+I will talk about the testing of Sqale's Linux Containers with Rspec
 
 # SqaleのLinuxコンテナをRSpecでテストしてる話
 
