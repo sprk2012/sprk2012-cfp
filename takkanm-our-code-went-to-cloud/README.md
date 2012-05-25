@@ -23,7 +23,7 @@ When a social coding environment comes to your workplace, how should an ordinary
 今後、仕事でもGitHub等のソーシャルコーディングが行なえる環境が普及していくと思います。
 自分の職場にソーシャルコーディングができる環境がやってきたとき、
 ふつうのプログラマがどのように立ち振るまうとよいのかということ、
-実体験を交わえ話します。
+実体験を交え話します。
 
 - Preferred presentation day: no preference
 - Presentation language: Japanese
