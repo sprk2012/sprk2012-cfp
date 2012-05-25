@@ -65,6 +65,8 @@ __social coding を実践する方法__ を説明します。
 ## COOKPAD Inc. && team.pasra.tk
 ## クックパッド株式会社 && team.pasra.tk
 
+![Headshot](https://secure.gravatar.com/avatar/b99311b48290f8ee37311890a8edfb1d.png?s=200)
+
 A Ruby committer. Coding part-time at COOKPAD Inc. (of course I code socially)
 
 中卒フリーター兼 Ruby コミッター ("偽りの厨二")。そらはーとも呼ばれています。クックパッド株式会社でアルバイトしてます。
