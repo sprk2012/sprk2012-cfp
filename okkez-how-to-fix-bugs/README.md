@@ -7,9 +7,9 @@ presentation, I will talk about how to fix bugs and determine cause of
 bugs.
 
 仕事でフリーソフトウェアのバグを調査して修正することがあります。しかし、
-我々は常にそのソフトウェアのことをよく知っているわけではありません。こ
-の発表では、いくつか実際に修正した例をあげながら、バグの原因を特定し、
-修正する方法について話します。
+そのソフトウェアの内部構造について詳しくないこともあります。この発表で
+は、いくつか実際に修正した例をあげながら、バグの原因を特定し、修正する
+方法について話します。
 
 - Preferred presentation day: no preference
 - Presentation language: Japanese
