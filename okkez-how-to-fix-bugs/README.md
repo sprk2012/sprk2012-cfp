@@ -1,7 +1,7 @@
 # How to fix bugs
 # バグを修正する方法
 
-You may need to investigate and fix bugs in a free software at
+You may need to investigate and fix bugs in free software at
 work. But you are not familiar with how to do so. In this
 presentation, I will talk about how to fix bugs and determine cause of
 bugs.
