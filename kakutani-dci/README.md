@@ -5,7 +5,7 @@
 
 (I'd like to be going to improve and push this by 'the judgement day' )
 
-[DCI(Data, Context and Interaction)](http://en.wikipedia.org/wiki/Data,_Context,_and_Interaction) is a "paradigm" in object-oriented application design and getting popular in some object-oriented proponent Rubyists. In this talk, we'll discuss:
+[DCI(Data, Context and Interaction)](http://en.wikipedia.org/wiki/Data,_Context,_and_Interaction) is a "paradigm" in object-oriented application design. DCI is getting popular in some object-oriented proponent Rubyists these days. In this talk, we'll discuss:
 
 - Why object-oriented proponent Rubyist mention DCI?
 - What's DCI and DCI is complementary to MVC framework -- Ruby on Rails.
