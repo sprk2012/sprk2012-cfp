@@ -12,7 +12,7 @@ I will talk about the backend architecture of [Sqale](http://sqale.jp).
 
 Ruby On Rails による Sqale のフロントエンド開発に関する話については、@banyan が「Sqale の表側」というタイトルで発表してくれます。
 
-- Preferred presentation day: no preference
+- Preferred presentation day: 9/14
 - Presentation language: Japanese (A slide is written by English)
 
 ## Gosuke Miyashita
