@@ -1,15 +1,15 @@
 # DIY programming - Code for yourself
 # 自給自足プログラミング
 
-There are people who loves making furnitures by themselves.
+There are people who love making furniture by themselves.
 It is not so popular to make software as DIY, 
 but more people should be enjoying DIY programming in the future
-since it is becoming more and more easier to learn programming.
+since it is becoming more and more easy to learn programming.
 We programmers are allowed to enjoy this progressive kind of life-style
 in advance.
 
 In this talk I will introduce various techniques
-useful for making software for ourselves, in addition to softwares
+useful for making software for ourselves, in addition to software
 I wrote in Ruby for myself such as music player, household account app
 or tools for games.
 
