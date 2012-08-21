@@ -5,13 +5,14 @@ At Engine Yard, we release the main EY Cloud code base at least once a day, many
 - Preferred presentation day: no preference
 - Presentation language: English
 
-## Andy Delcambre
+## Josh Lane
 ## Engine Yard, Inc
 
-Andy Delcambre is an engineer at Engine Yard and lives in San Francisco. Previously he hailed from Portland where he was a Rails consultant at Planet Argon. He snowboards, backpacks, travels, rock climbs, eats delicious food and rides his bike as often as he can manage.
+Josh Lane is an engineer at Engine Yard and lives in Oakland. He hails from Boston where he worked for HubSpot, Brontes Technologies and EMC.
 
-- [My website](http://andy.delcambre.com)
-- [My twitter](https://twitter.com/#!/adelcambre)
+- [My website](http://joshualane.com)
+- [My twitter](https://twitter.com/#!/lanejoshlane)
+- [Github](https://github.com/lanej)
 - [Rubyconf 2011 Slides](https://speakerdeck.com/u/adelcambre/p/release-early-and-release-often)
 - [Rubyconf 2011 Video](http://confreaks.com/videos/667-rubyconf2011-release-early-and-release-often-reducing-deployment-friction)
 - [RubyKaigi 2011 Slides](http://andy.delcambre.com/rubykaigi-2011)
